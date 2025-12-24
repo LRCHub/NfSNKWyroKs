@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "MORE & MORE (LEE HAE SOL Sped Up Remix)",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-24T16:11:56.652395Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hard Times Come Again No More",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Hard_Times_Come_Again_No_More_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thousands Or More",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/02_Thousands_Or_More_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "More Drinkin' Than Fishin'",
+      "artist": "Jade Eagleson feat. Dean Brody",
+      "has_synced": true,
+      "path": "select/03_More_Drinkin'_Than_Fishin'_Jade_Eagleson_feat._Dean_Brody.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "More Drinkin' Than Fishin'",
+      "artist": "Jade Eagleson",
+      "has_synced": true,
+      "path": "select/04_More_Drinkin'_Than_Fishin'_Jade_Eagleson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "More Time Fishin'",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/05_More_Time_Fishin'_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nothing More",
+      "artist": "Mazare feat. Luma",
+      "has_synced": true,
+      "path": "select/06_Nothing_More_Mazare_feat._Luma.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nothing More",
+      "artist": "Mazare, Luma",
+      "has_synced": true,
+      "path": "select/07_Nothing_More_Mazare,_Luma.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yesterday Once More",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/08_Yesterday_Once_More_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(What This World Needs Is) A Few More Rednecks",
+      "artist": "Charlie Daniels",
+      "has_synced": false,
+      "path": "select/09_(What_This_World_Needs_Is)_A_Few_More_Rednecks_Charlie_Daniels.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(What This World Needs Is) A Few More Rednecks (Album Version)",
+      "artist": "Charlie Daniels",
+      "has_synced": false,
+      "path": "select/10_(What_This_World_Needs_Is)_A_Few_More_Rednecks_(Album_Version)_Charlie_Daniels.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(What This World Needs Is) A Few More Rednecks (Live)",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": false,
+      "path": "select/11_(What_This_World_Needs_Is)_A_Few_More_Rednecks_(Live)_The_Charlie_Daniels_Band.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Little Less Talk and a Lot More Action",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/12_A_Little_Less_Talk_and_a_Lot_More_Action_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Little Less Talk And A Lot More Action (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/13_A_Little_Less_Talk_And_A_Lot_More_Action_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Little More Country Than That",
+      "artist": "Easton Corbin",
+      "has_synced": true,
+      "path": "select/14_A_Little_More_Country_Than_That_Easton_Corbin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Little More Country Than That (Album Version)",
+      "artist": "Easton Corbin",
+      "has_synced": true,
+      "path": "select/15_A_Little_More_Country_Than_That_(Album_Version)_Easton_Corbin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Little More Love",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/16_A_Little_More_Love_Vince_Gill.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MORE & MORE",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_MORE_&_MORE_TWICE.txt"
+    }
+  ]
+}
